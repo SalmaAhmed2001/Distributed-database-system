@@ -1,0 +1,4 @@
+Name: John Doe
+ID: 12345
+GPA: 3.5
+Major: Computer Science
